@@ -21,10 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
   let projectBtn = document.getElementById('project-btn')
   const projectUrls = [
     'https://ezinwanwosu.github.io/web_Case3/home.html',
-    'https://google.co.uk',
-    'https://amazon.co.uk',
-    'https://apple.co.uk',
-    'https://ezinwanwosu.github.io/web_Case3/home.html',
+    'https://yoncesacrylics.co.uk',
+    'https://ezinwanwosu.github.io/web-Case2/',
     'https://github.com/ezinwanwosu',
   ];
   let active = 3;

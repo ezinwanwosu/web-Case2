@@ -143,6 +143,10 @@ body{
     left: calc(43% - 110px);
     top: 0;
 }
+.item img{
+  width: 400px;
+  height: 320px;
+}
 #next, #prev{
     position: absolute;
     top: 40%;
@@ -171,7 +175,7 @@ body{
     left: 20%;
     top:-200px;
    
-    color: rgb(46, 46, 46);
+    color: rgb(170, 170, 170);
     margin-bottom: 500px;
     
 }
